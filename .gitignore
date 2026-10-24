@@ -1,0 +1,21 @@
+# Secrets
+**/Secrets.json
+**/.env
+**/.env.*
+**/appsettings.Local.json
+
+# .NET
+**/bin/
+**/obj/
+**/TestResults/
+**/coveragereport/
+
+# React / Node
+**/node_modules/
+**/build/
+**/dist/
+**/.next/
+
+# Local files
+.vscode/
+.DS_Store
